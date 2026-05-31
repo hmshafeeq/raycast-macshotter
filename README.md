@@ -9,6 +9,8 @@ capture, recording, OCR, history and settings actions from a grouped list.
 
 Requires macshot installed with URL scheme support.
 
+Created by Muhammad Shafeeq.
+
 ## Commands
 
 - Capture Area: `capture`
